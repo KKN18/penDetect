@@ -3,7 +3,9 @@
 팬을 찾아요.	
 
 # 사용방법
-* Colab에서 yolo_v4_test_train_Roboflow_ok.ipynb 파일 실행
+* Colab에서 [PenDection_yolo4.ipynb](https://colab.research.google.com/github/nowage/penDetect/blob//main/PenDection_yolo4.ipynb) 파일 실행
+
+
 # Data
 ## 원본 이미지
 * 11개	
@@ -16,5 +18,6 @@
 # 결과
 ![결과](./download.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEwMTQ2OThdfQ==
+eyJoaXN0b3J5IjpbLTE1MTg5ODYyNzEsLTE1MDEwMTQ2OThdfQ
+==
 -->
